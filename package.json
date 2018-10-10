@@ -34,7 +34,7 @@
     "zone.js": "^0.8.4"
   },
   "devDependencies": {
-    "@angular/cli": "1.6.5",
+    "@angular/cli": "6.2.4",
     "@types/jasmine": "~2.8.0",
     "@types/jasminewd2": "^2.0.3",
     "@types/node": "^10.11.7",
@@ -53,11 +53,6 @@
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "typescript": "3.1.2"
-  },
-  "greenkeeper": {
-    "ignore": [
-      "@angular/cli"
-    ]
   },
   "repository": {}
 }
