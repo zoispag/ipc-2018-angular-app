@@ -58,6 +58,6 @@
     "ignore": [
       "@angular/cli"
     ]
-  }
+  },
   "repository": {}
 }
