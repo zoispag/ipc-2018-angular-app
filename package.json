@@ -28,7 +28,7 @@
     "@angular/router": "~5.0.0",
     "@angular/upgrade": "~5.0.0",
     "angular-in-memory-web-api": "~0.5.0",
-    "core-js": "^2.4.1",
+    "core-js": "^2.5.7",
     "ipaddr.js": "^1.8.1",
     "rxjs": "^5.5.0",
     "zone.js": "^0.8.4"
