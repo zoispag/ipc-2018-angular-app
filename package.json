@@ -24,7 +24,7 @@
     "@angular/http": "~5.0.0",
     "@angular/platform-browser": "~5.0.0",
     "@angular/platform-browser-dynamic": "~6.1.10",
-    "@angular/platform-server": "~5.0.0",
+    "@angular/platform-server": "~6.1.10",
     "@angular/router": "~5.0.0",
     "@angular/upgrade": "~5.0.0",
     "angular-in-memory-web-api": "~0.5.0",
