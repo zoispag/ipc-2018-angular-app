@@ -51,7 +51,7 @@
     "phantomjs-prebuilt": "^2.1.7",
     "protractor": "~5.4.2",
     "ts-node": "^8.0.3",
-    "tslint": "^5.13.1",
+    "tslint": "^5.14.0",
     "typescript": "3.3.3333"
   },
   "repository": {}
